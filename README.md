@@ -11,14 +11,14 @@ Screenshots:
 
 Built using:
 
-Angular 12
-Firebase Authentication for user sign in and signup
-Github API for fetching user information
+1)Angular 12
+2)Firebase Authentication for user sign in and signup
+3)Github API for fetching user information
 
 Npm libraries used:
 
-Bootstrap
-Firebase
-Ngx-Toastr
+1)Bootstrap
+2)Firebase
+3)Ngx-Toastr
 
 
