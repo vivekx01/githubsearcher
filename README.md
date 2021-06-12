@@ -11,7 +11,7 @@ Screenshots:
 
 Built using:
 
-1)Angular 12
+1)Angular Framework (Angular 12)
 2)Firebase Authentication for user sign in and signup
 3)Github API for fetching user information
 
