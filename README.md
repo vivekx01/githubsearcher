@@ -12,17 +12,13 @@ Screenshots:
 Built using:
 
 Angular 12
-
 Firebase Authentication for user sign in and signup
-
 Github API for fetching user information
 
 Npm libraries used:
 
 Bootstrap
-
 Firebase
-
 Ngx-Toastr
 
 
