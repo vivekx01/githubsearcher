@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "gitsearch-f7101": {
+      "hosting": {
+        "github-login-firebase": [
+          "gitsearch-f7101"
+        ]
+      }
+    }
+  }
+}
