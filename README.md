@@ -1,5 +1,9 @@
 # Github Searcher
 
+Find the deployed version of the app here: 
+https://gitsearch-f7101.web.app/
+
+
 Screenshots: 
 
 ![1](https://user-images.githubusercontent.com/72996825/121771965-2b78d380-cb90-11eb-90d5-22c529b865ad.jpeg)
